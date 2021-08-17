@@ -3,8 +3,6 @@
 ## Train
 ResNet18
 
-best_acc = 66.04
-
 lr = 0.01
 
 batch_size = 32
@@ -15,7 +13,7 @@ weight_decay = 1e-4
 
 epoch = 35
 
-![123](https://user-images.githubusercontent.com/85150131/129670337-e316acda-dfe7-48b7-9412-f23a4eab452e.png)
+
 ## DATA  
 
     - (1) training data : 21,529files
@@ -73,3 +71,9 @@ epoch = 35
 - img.shape = (48, 48, 3)
 
 DB : https://www.kaggle.com/ananthu017/emotion-detection-fer
+
+## Result
+
+best_acc = 66.04
+
+![123](https://user-images.githubusercontent.com/85150131/129670337-e316acda-dfe7-48b7-9412-f23a4eab452e.png)
