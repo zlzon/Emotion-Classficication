@@ -15,6 +15,7 @@ weight_decay = 1e-4
 
 epoch = 35
 
+![123](https://user-images.githubusercontent.com/85150131/129670337-e316acda-dfe7-48b7-9412-f23a4eab452e.png)
 ## DATA  
 
     - (1) training data : 21,529files
