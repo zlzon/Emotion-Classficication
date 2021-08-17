@@ -69,8 +69,6 @@ epoch = 35
     - 실제 인물 사진이 아닌 그림도 존재
     - 안경 쓴  인물 이미지도 있음
     - disgusted, angry, fearful의 이미지 별 특징이 비슷함
-- 이미지 해상도 : All 48 * 48
-- 흑백 이미지 3channel
 - img.shape = (48, 48, 3)
 
 DB : https://www.kaggle.com/ananthu017/emotion-detection-fer
