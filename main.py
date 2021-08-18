@@ -16,7 +16,6 @@ import torchvision.datasets as datasets
 import torchvision.models as models
 
 from torch.utils.data import DataLoader
-from loader import classification
 from resnet import ResNet
 from utils import progress_bar
 
